@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap-index.xml
+Sitemap: https://eager-elion-0f7cfc.netlify.app/sitemap-index.xml

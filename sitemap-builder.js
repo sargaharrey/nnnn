@@ -33,6 +33,6 @@ class UniqueSitemap extends Sitemap {
 
 (
     new UniqueSitemap(router())
-        .build('https://example.com')
+        .build('https://eager-elion-0f7cfc.netlify.app')
         .save('./public/sitemap-index.xml')
 );
